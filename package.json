@@ -55,7 +55,6 @@
   },
   "devDependencies": {
     "@craco/craco": "^5.9.0",
-    "@tailwindcss/vite": "^4.1.11",
     "@testing-library/react": "^16.3.0",
     "@vitejs/plugin-react": "^4.6.0",
     "assert": "^2.1.0",
