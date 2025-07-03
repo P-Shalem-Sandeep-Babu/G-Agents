@@ -13,6 +13,10 @@ export default function App() {
           <ToasterProvider>
             <ErrorBoundary>
               <AppRoutes />
+              <div className="text-green-500 text-3xl p-6">
+  ✅ Tailwind is Working!
+</div>
+
             </ErrorBoundary>
           </ToasterProvider>
         </AuthProvider>
